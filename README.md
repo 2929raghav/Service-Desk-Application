@@ -1,10 +1,3 @@
-<p align="center">
-  <a href="#">
-    <img alt="mern-app-generator" src="https://www.mindinventory.com/blog/wp-content/uploads/2021/06/mern-stack.png" />
-  </a>
-</p>
-<h3 align="center">Create, build and deploy MERN stack application.</h3>
-
 NODE_ENV = development
 PORT = 5000
 MONGODB_URL=<your_mongodb_connection_string>
